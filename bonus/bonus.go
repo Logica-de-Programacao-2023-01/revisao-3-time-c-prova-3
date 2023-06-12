@@ -17,5 +17,5 @@ type LinkedList struct {
 }
 
 func MergeTwoLists(list1 *LinkedList, list2 *LinkedList) *LinkedList {
-	return nil
+
 }
